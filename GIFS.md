@@ -1,9 +1,7 @@
-# Teoricamente, uma "página 2", seção GIFS
+## 📽️ Demonstrações do Projeto
 
-**~le gif1*
-**~le gif2*
-**~le gif3*
+### Teste 1
+![GIF 1](https://i.imgur.com/kxHm4jm.gif)
 
-
-
-[Link para a seção main](README.md)
+### Teste 2
+![GIF 2](https://i.imgur.com/yNk2HtV.gif)

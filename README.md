@@ -1,3 +1,3 @@
 # Apenas um Teste.
 
-[Link para a seção gifs](GIFS.md)
+📽️ Veja os [GIFs de funcionamento](GIFS.md)
