@@ -1,3 +1,3 @@
 # Apenas um Teste.
 
-Verificando como funciona seções por .md
+[Link para a seção gifs](GIFS.md)
